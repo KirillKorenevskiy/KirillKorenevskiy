@@ -32,6 +32,8 @@
 <img src="http://getdrawings.com/free-icon/oracle-db-icon-65.png" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
 </div>
 
+<a></a>
+
 <a ><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaXDD&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
 
