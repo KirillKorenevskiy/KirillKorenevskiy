@@ -23,6 +23,7 @@
 <img src="https://img.icons8.com/color/512/c-sharp-logo.png"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/KirillKorenevskiy/KirillKorenevskiy/assets/118692323/a61a1836-5aa6-4ec7-beb9-cc47e7350e92" title="NodeJS" alt="PostgreSql" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" title="React" alt="React" width="40" height="40"/>&nbsp; 
 <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="http://getdrawings.com/free-icon/oracle-db-icon-65.png" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
