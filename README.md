@@ -4,7 +4,7 @@
 
 ### &#128406; About Me :
 &#128104;&#8205;&#128187;IT faculty, POIBMS, BSTU<br>
-&#127747;Minsk, Belarus;
+&#127747;Minsk, Belarus
 
 <h2>Social:</h2>
 
@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/korenevskiyy/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://web.telegram.org/k/">
+  <a href="https://web.telegram.org/k/#@korenevskiyy">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
