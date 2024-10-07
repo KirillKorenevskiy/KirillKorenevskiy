@@ -17,22 +17,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-
-### &#128736;&#65039; I work with programming languages :
-<div>
-<img src="https://img.icons8.com/color/512/c-sharp-logo.png"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/KirillKorenevskiy/KirillKorenevskiy/assets/118692323/a61a1836-5aa6-4ec7-beb9-cc47e7350e92" title="NodeJS" alt="PostgreSql" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" title="React" alt="React" width="40" height="40"/>&nbsp; 
-<img src="https://img.icons8.com/color/512/c-plus-plus-logo.png"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="http://getdrawings.com/free-icon/oracle-db-icon-65.png" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;   
-<img src="https://cdn-icons-png.flaticon.com/512/1183/1183670.png"  title="XML" alt="XML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-</div>
-
 <a></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillKorenevskiy&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
