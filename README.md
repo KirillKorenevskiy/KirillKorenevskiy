@@ -4,8 +4,6 @@
 
 ### &#128406; About Me :
 &#128104;&#8205;&#128187;IT faculty, POIBMS, BSTU<br>
-&#127747;Minsk, Belarus
-
 <h2>Social:</h2>
 
 <div id="badges">
